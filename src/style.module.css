@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: monospace;
+}
+
+.header {
+    background-color: aquamarine;
+    height: 50px;
+    font-size: 4em;
+    color: rgba(46, 167, 96, 0.815);
+    padding: 20px;
+}
+
+.todoform {
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.todoinput {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgb(32, 22, 172);
+    border-top: 1px solid rgb(32, 22, 172);
+    font-size: 1.5em;
+    text-align: center;
+    color: rgb(53, 26, 204);
+    height: 50px;
+}
+
+.todobutton {
+    width: 100%;
+    text-align: center;
+    font-size: 1.5em;
+    border: none;
+    background-color: rgb(35, 157, 187);
+    color: rgb(53, 26, 204);
+    height: 50px;
+    margin-top: 20px;
+}
